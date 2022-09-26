@@ -1,20 +1,40 @@
-<h1>PHP DEVELOPER</h1
-<p>Мой опыт в разработке: 4 года.</p>
-<h6>На момент я успел поработать над 6 проектами и  в 2 компаниях.</h6>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=PHP+DEVELOPER)](https://github.com/gquantic)
+<hr>
 
-<h5>Не останавливаюсь развиваться и всё глубже и глубже погружаюсь в океан разработки.</h5>
-<h5>Большинство репозиториев - мусор, учебные проекты. Пет-проектов достаточно много.</h5>
-<a href="https://github.com/gquantic/gquantic/blob/main/road.md">Тут я буду держать в курсе развития</a>
-<span style="margin-left:5px;">(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</span>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=My+stack)](https://github.com/gquantic)
+
+<p>Back-end development</p>
+
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+
+<p>Front-end development</p>
+
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+
+<p>Data bases</p>
+
+- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+<p>Team managment</p>
+
+- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 <br><br>
-<!--h4 style="margin-bottom:0px;">Просто, расслабьтесь ~(˘▾˘~)</h4-->
-<div style="display:flex;">
-<img style="display: inline;left:-15px;" src="https://pluspng.com/img-png/fire-flames-png-download-fire-flames-png-images-transparent-gallery-advertisement-2260.png" width="80px">
-<img style="display: inline;margin-top:-5px;left:-15px;" src="https://pluspng.com/img-png/fire-flames-png-download-fire-flames-png-images-transparent-gallery-advertisement-2260.png" width="80px">
-<img style="display: inline;margin-top:-5px;left:-15px;" src="https://pluspng.com/img-png/fire-flames-png-download-fire-flames-png-images-transparent-gallery-advertisement-2260.png" width="80px">
-<img style="display: inline;margin-top:-5px;left:-15px;" src="https://pluspng.com/img-png/fire-flames-png-download-fire-flames-png-images-transparent-gallery-advertisement-2260.png" width="80px">
-<img style="display: inline;margin-top:-5px;left:-15px;" src="https://pluspng.com/img-png/fire-flames-png-download-fire-flames-png-images-transparent-gallery-advertisement-2260.png" width="80px">
-</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=My+achives)](https://github.com/gquantic)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gquantic&theme=onedark)](https://github.com/gquantic)
+
 
 <br><br>
 [![Build Status](https://app.travis-ci.com/gquantic/gquantic.svg?branch=main)](https://app.travis-ci.com/gquantic/gquantic)
