@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=PHP+DEVELOPER)](https://github.com/gquantic)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFF&lines=WEB+DEVELOPER)](https://github.com/gquantic)
 <hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=My+stack)](https://github.com/gquantic)
