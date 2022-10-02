@@ -1,6 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFF&lines=WEB+DEVELOPER)](https://github.com/gquantic)
 <hr>
 
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gquantic&theme=radical&langs_count=6&layout=compact"><img alt="GQuantic Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gquantic&theme=radical&langs_count=6&layout=compact" /></a>
+ </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=gquantic&label=Profile%20views&color=0e75b6&style=flat" alt="gquantic" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=My+stack)](https://github.com/gquantic)
 
 <p>Back-end development</p>
