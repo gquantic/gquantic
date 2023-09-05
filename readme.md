@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFF&lines=BACKEND+DEVELOPER)](https://github.com/gquantic)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFF&lines=FULL-STACK+DEVELOPER)](https://github.com/gquantic)
 <hr>
 
-<p align="center">
+<!--p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gquantic&theme=radical&langs_count=6&layout=compact"><img alt="GQuantic Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gquantic&theme=radical&langs_count=6&layout=compact" /></a>
- </p>
+ </p-->
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=gquantic&label=Profile%20views&color=0e75b6&style=flat" alt="gquantic" />
@@ -39,10 +39,12 @@
 
 <br><br>
 
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=My+achives)](https://github.com/gquantic)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gquantic&theme=onedark)](https://github.com/gquantic)
-
-
+-->
+<!--
 <br><br>
 [![Build Status](https://app.travis-ci.com/gquantic/gquantic.svg?branch=main)](https://app.travis-ci.com/gquantic/gquantic)
+-->
